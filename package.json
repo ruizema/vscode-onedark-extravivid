@@ -1,9 +1,9 @@
 {
-    "name": "vscode-theme-onedark",
-    "displayName": "Atom One Dark Theme",
-    "description": "One Dark Theme based on Atom",
-    "version": "2.0.2",
-    "publisher": "akamud",
+    "name": "vscode-theme-onedark-vivid",
+    "displayName": "One Dark Vivid theme",
+    "description": "Slightly more vivid One Dark Theme based on Atom",
+    "version": "1.0.0",
+    "publisher": "fivepointseven",
     "license": "MIT",
     "galleryBanner": {
 		"color": "#282C34",
@@ -25,7 +25,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Atom One Dark",
+                "label": "One Dark Vivid",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDark.json"
             }
