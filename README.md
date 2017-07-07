@@ -1,26 +1,17 @@
-# Atom One Dark Theme
+# One Dark Vivid theme
 
-[![Marketplace](http://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](http://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)  
-VSCode Theme based on Atom's [One Dark](https://github.com/atom/one-dark-syntax) theme. Best rated One Dark theme port in the marketplace, **features full Workbench theming**.
+[![Marketplace](http://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Installs](http://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
+VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features vivid syntax colors that aren't as depressing as default from [One Dark](https://github.com/atom/one-dark-syntax) and a Spacegray editor colors.
 
-![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+![](https://raw.githubusercontent.com/fivepointseven/vscode-theme-onedark-vivid/master/screenshots/preview.png)
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)  
-
-## Looking for the One Light theme?
-
-If you are interested you can also have the One Light theme available [here](https://github.com/akamud/vscode-theme-onelight).
-
-## What's new?
-
-Click here to go to the [Changelog](https://github.com/akamud/vscode-theme-onedark/blob/master/CHANGELOG.md)
-
-## Inconsistencies?
-
-If you find any inconsistency in any language, raise an Issue and I'll fix it, please provide a sample for the language so I can compare. 
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
 
 ## Credits
 
-[Atom](https://github.com/atom)
+
+[Akamud](https://github.com/akamud/vscode-theme-onedark) - One Dark theme port used as source
+
+[mmcbride1007](https://github.com/mmcbride1007/electron-highlighter-syntax) - Electron Highlighter Atom theme
