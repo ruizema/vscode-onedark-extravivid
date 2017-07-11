@@ -1,6 +1,6 @@
 # One Dark Vivid theme
 
-[![Marketplace](http://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Installs](http://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Ratings](http://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Installs](https://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
 VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features vivid syntax colors that aren't as depressing as default from [One Dark](https://github.com/atom/one-dark-syntax) and a Spacegray editor colors.
 
 ![](https://raw.githubusercontent.com/fivepointseven/vscode-theme-onedark-vivid/master/screenshots/preview.png)
