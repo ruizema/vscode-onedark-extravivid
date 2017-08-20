@@ -1,19 +1,19 @@
 {
-    "name": "vscode-theme-onedark-vivid",
-    "displayName": "One Dark Vivid Theme",
-    "description": "Slightly more vivid and Atom'y One Dark Theme",
+    "name": "vscode-theme-onedark-spacegray",
+    "displayName": "One Dark Space Gray Theme",
+    "description": "Slightly more spacegray and Atom'y One Dark Theme",
     "version": "1.0.0",
     "publisher": "fivepointseven",
     "license": "MIT",
     "galleryBanner": {
-		"color": "#282C34",
-		"theme": "dark"
-	},
+        "color": "#282C34",
+        "theme": "dark"
+    },
     "engines": {
-       "vscode": "^1.12.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
-    "Themes"
+        "Themes"
     ],
     "keywords": [
         "atom",
@@ -25,18 +25,18 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Vivid",
+                "label": "One Dark Space Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDark.json"
             }
         ]
     },
     "bugs": {
-        "url": "https://github.com/fivepotintseven/vscode-theme-onedark-vivid/issues"
+        "url": "https://github.com/fivepotintseven/vscode-theme-onedark-spacegray/issues"
     },
-    "homepage": "https://github.com/fivepotintseven/vscode-theme-onedark-vivid",
+    "homepage": "https://github.com/fivepotintseven/vscode-theme-onedark-spacegray",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fivepointseven/vscode-theme-onedark-vivid"
+        "url": "https://github.com/fivepointseven/vscode-theme-onedark-spacegray"
     }
 }

@@ -1,13 +1,13 @@
-# One Dark Vivid theme
+# One Dark Space Gray theme
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Installs](https://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-vivid.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
-VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features vivid syntax colors that aren't as depressing as default from [One Dark](https://github.com/atom/one-dark-syntax) and a Spacegray editor colors.
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray) [![Installs](https://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray)  
+VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features more vivid syntax coloring and [Spacegray](http://kkga.github.io/spacegray/) theme's UI colors that aren't as depressing as defaults from One Dark.
 
-![](https://raw.githubusercontent.com/fivepointseven/vscode-theme-onedark-vivid/master/screenshots/preview.png)
+![](https://raw.githubusercontent.com/fivepointseven/vscode-theme-onedark-spacegray/master/screenshots/preview.png)
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-vivid)  
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray)  
 
 ## Credits
 
