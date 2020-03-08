@@ -1,16 +1,12 @@
-# One Dark Space Gray theme
+# One Dark Extra Vivid for Visual Studio Code
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray) [![Installs](https://vsmarketplacebadge.apphb.com/installs/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fivepointseven.vscode-theme-onedark-spacegray.svg)](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray)  
-VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features more vivid syntax coloring and [Spacegray](http://kkga.github.io/spacegray/) theme's UI colors that aren't as depressing as defaults from One Dark.
+Theme for Visual Studio Code originally inspired by Atom's One Dark theme, now with extra vivid colours! Comes with full workbench theming from Akamud's One Dark port, and optimised syntax colouring for Python and JavaScript.
 
-![](https://raw.githubusercontent.com/fivepointseven/vscode-theme-onedark-spacegray/master/screenshots/preview.png)
-
-## Installing
-
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/fivepointseven.vscode-theme-onedark-spacegray)  
+![Python Preview](/screenshots/python.png)
 
 ## Credits
 
+[rdev](https://github.com/rdev/vscode-theme-onedark-spacegray) - One Dark Vivid
 
 [Akamud](https://github.com/akamud/vscode-theme-onedark) - One Dark theme port used as source
 
